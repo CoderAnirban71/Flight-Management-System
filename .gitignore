@@ -1,0 +1,22 @@
+# Compiled executables
+flight
+flight.exe
+*.out
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# Debug files
+*.pdb
+*.ilk
+*.dSYM/
+
+# Editor / IDE folders
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
